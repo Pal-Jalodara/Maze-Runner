@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include <queue>
-#include <unordered_map>
 #include <utility>
 #include <stack>
 #include <ctime>
@@ -999,7 +998,7 @@ private:
         bool playing = true;
         bool completed = false;
         char input;
-
+        console.clearScreen();
         while (playing)
         {
             maze.init(currentDifficulty);
@@ -1036,6 +1035,7 @@ private:
                     break;
                 case 'h':
                     scoreManager.showHighScores();
+                    console.clearScreen();
                     break;
                 case 'q':
                     playing = false;

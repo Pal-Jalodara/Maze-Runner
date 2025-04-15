@@ -26,6 +26,7 @@ Welcome to **Maze Runner**, a dynamic and interactive console-based maze puzzle 
 
 ## 📚 Data Structures Used
 
+- `class` & `struct` – For Object Oriented Programming
 - `vector<vector<char>>` – Maze grid representation
 - `stack<pair<int,int>>` – Used in both maze generation (DFS) and player path tracking
 - `queue<pair<int,int>>` – Utilized in BFS pathfinding algorithm
@@ -116,12 +117,23 @@ Use these keys to navigate and interact:
 
 - **Main Menu**
 
+![Screenshot 2025-04-16 021856](https://github.com/user-attachments/assets/4aa6223b-4f53-498e-b286-457f40ed01a2)
+
+- **Game Help**
+
+![Screenshot 2025-04-16 021952](https://github.com/user-attachments/assets/238ea75d-70ed-4ee4-aa54-13b25e01983c)
+
+- **High Scores**
+
+![Screenshot 2025-04-16 021931](https://github.com/user-attachments/assets/50e93251-df6d-4706-9194-f6e8ca6b2633)
 
 - **Maze Gameplay**
 
+![Screenshot 2025-04-16 022812](https://github.com/user-attachments/assets/816cdfde-47d4-45ad-a850-14beeeb9fd3e)
 
 - **Victory Screen**
 
+![Screenshot 2025-04-16 023109](https://github.com/user-attachments/assets/9cef04d6-13fe-4063-b49d-f4b453b34e3e)
 
 ---
 

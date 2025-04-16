@@ -33,6 +33,7 @@ Welcome to **Maze Runner**, a dynamic and interactive console-based maze puzzle 
 - `pair` – To store co-ordinates
 - `enum` – Game difficulty level & Console colours indicator
 - `array` – For various small tasks
+- `string` – Manage file I/O
 - `vector<HighScore>` – Stores and manages high score entries
 - `chrono::high_resolution_clock` – Precise game timing
 
@@ -52,9 +53,11 @@ Welcome to **Maze Runner**, a dynamic and interactive console-based maze puzzle 
 - 🧭 **Path Visualization** – View the shortest solution with `F`
 - ⌛ **Timer & Stats** – Tracks time and steps
 - 🥇 **High Score System** – Keeps top 5 scores per difficulty
+- ❓ **Help Menu** – New players can quickly learn how to play and win
 - 🎨 **Colorful UI** – Vibrant visual feedback in the console
 - 🔁 **Backtracking Logic** – Automatically recognizes and manages player backtracking
 - 💾 **File Persistence** – Saves and loads highscores from `maze_scores.dat`
+- 🪶 **Lightweight & Standalone** – No external libraries or dependencies — just pure C++!
 
 ---
 
@@ -141,10 +144,11 @@ Use these keys to navigate and interact:
 
 - 🌐 **Cross-platform support** (replace WinAPI with cross-platform libraries)
 - 🧩 **Multiple maze types** (hex, circular, etc.)
-- 💡 **AI Solver Visualization**
+- 💣 **Add multiple modes** (Portal Run, BoomMaze)
 - 🔊 **Sound Effects**
 - 📊 **Detailed score analytics**
 - 🌈 **Customizable themes & controls**
+- 🎮 **Enhanced Graphics mode** (SFML)
 
 ---
 

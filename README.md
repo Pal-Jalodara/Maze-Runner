@@ -30,7 +30,7 @@ Welcome to **Maze Runner**, a dynamic and interactive console-based maze puzzle 
 - `vector<vector<char>>` – Maze grid representation
 - `stack<pair<int,int>>` – Used in both maze generation (DFS) and player path tracking
 - `queue<pair<int,int>>` – Utilized in BFS pathfinding algorithm
-- `pair` – To store co-ordinates
+- `pair` – To make Data Structures that store 2 values
 - `enum` – Game difficulty level & Console colours indicator
 - `array` – For various small tasks
 - `string` – Manage file I/O
